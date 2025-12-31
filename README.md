@@ -93,7 +93,7 @@ The analysis covers transaction data from **January to March 2019**.
 
 ## Repository Structure
 
-'''
+<pre>
 supermarket-sales-dashboard/
 ├── data/
 │   └── supermarket_sales.xlsx
@@ -102,8 +102,7 @@ supermarket-sales-dashboard/
 ├── images/
 │   └── supermarketsales-1.png
 └── README.md
-'''
-
+</pre>
 
 
 ---
